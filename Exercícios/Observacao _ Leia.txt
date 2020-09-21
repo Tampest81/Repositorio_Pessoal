@@ -1,0 +1,2 @@
+O arquivo "Exercício individual - Tema Aula 31.08.20" possui ambas as lições,
+tanto "Tema: Aula 31/08/20", quanto a "Tema: ToString e membros estáticos"
