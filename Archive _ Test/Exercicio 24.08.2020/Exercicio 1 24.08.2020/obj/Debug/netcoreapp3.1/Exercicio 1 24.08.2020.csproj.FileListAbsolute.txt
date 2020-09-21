@@ -1,0 +1,13 @@
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\bin\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.exe
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\bin\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.deps.json
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\bin\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.runtimeconfig.json
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\bin\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.runtimeconfig.dev.json
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\bin\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.dll
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\bin\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.pdb
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\obj\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.csprojAssemblyReference.cache
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\obj\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.AssemblyInfoInputs.cache
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\obj\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.AssemblyInfo.cs
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\obj\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.csproj.CoreCompileInputs.cache
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\obj\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.dll
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\obj\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.pdb
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\Exercicio 1 24.08.2020\Exercicio 1 24.08.2020\obj\Debug\netcoreapp3.1\Exercicio 1 24.08.2020.genruntimeconfig.cache
