@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lampus\\source\\repos\\Construtores\\Construtores\\Construtores.csproj": {}
+    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Construtores\\Construtores\\Construtores\\Construtores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lampus\\source\\repos\\Construtores\\Construtores\\Construtores.csproj": {
+    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Construtores\\Construtores\\Construtores\\Construtores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lampus\\source\\repos\\Construtores\\Construtores\\Construtores.csproj",
+        "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Construtores\\Construtores\\Construtores\\Construtores.csproj",
         "projectName": "Construtores",
-        "projectPath": "C:\\Users\\Lampus\\source\\repos\\Construtores\\Construtores\\Construtores.csproj",
+        "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Construtores\\Construtores\\Construtores\\Construtores.csproj",
         "packagesPath": "C:\\Users\\Lampus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lampus\\source\\repos\\Construtores\\Construtores\\obj\\",
+        "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Construtores\\Construtores\\Construtores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

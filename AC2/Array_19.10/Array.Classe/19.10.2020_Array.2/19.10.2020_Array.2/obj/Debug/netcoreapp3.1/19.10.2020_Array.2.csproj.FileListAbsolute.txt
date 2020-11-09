@@ -24,3 +24,16 @@ C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\19.10.2020_Ar
 C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\19.10.2020_Array.2\19.10.2020_Array.2\obj\Debug\netcoreapp3.1\19.10.2020_Array.2.dll
 C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\19.10.2020_Array.2\19.10.2020_Array.2\obj\Debug\netcoreapp3.1\19.10.2020_Array.2.pdb
 C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\POO C# Files\19.10.2020_Array.2\19.10.2020_Array.2\obj\Debug\netcoreapp3.1\19.10.2020_Array.2.genruntimeconfig.cache
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\bin\Debug\netcoreapp3.1\19.10.2020_Array.2.exe
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\bin\Debug\netcoreapp3.1\19.10.2020_Array.2.deps.json
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\bin\Debug\netcoreapp3.1\19.10.2020_Array.2.runtimeconfig.json
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\bin\Debug\netcoreapp3.1\19.10.2020_Array.2.runtimeconfig.dev.json
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\bin\Debug\netcoreapp3.1\19.10.2020_Array.2.dll
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\bin\Debug\netcoreapp3.1\19.10.2020_Array.2.pdb
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\obj\Debug\netcoreapp3.1\19.10.2020_Array.2.csprojAssemblyReference.cache
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\obj\Debug\netcoreapp3.1\19.10.2020_Array.2.AssemblyInfoInputs.cache
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\obj\Debug\netcoreapp3.1\19.10.2020_Array.2.AssemblyInfo.cs
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\obj\Debug\netcoreapp3.1\19.10.2020_Array.2.csproj.CoreCompileInputs.cache
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\obj\Debug\netcoreapp3.1\19.10.2020_Array.2.dll
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\obj\Debug\netcoreapp3.1\19.10.2020_Array.2.pdb
+C:\Users\Lampus\Desktop\Facens\Segundo Semestre\Ohata\TortoisePOO\Repositorio_Pessoal\AC2\Array_19.10\Array.Classe\19.10.2020_Array.2\19.10.2020_Array.2\obj\Debug\netcoreapp3.1\19.10.2020_Array.2.genruntimeconfig.cache

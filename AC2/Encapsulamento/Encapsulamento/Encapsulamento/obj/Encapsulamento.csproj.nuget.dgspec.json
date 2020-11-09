@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj": {}
+    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Encapsulamento\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj": {
+    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Encapsulamento\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
+        "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Encapsulamento\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
         "projectName": "Encapsulamento",
-        "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
+        "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Encapsulamento\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
         "packagesPath": "C:\\Users\\Lampus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Encapsulamento\\Encapsulamento\\obj\\",
+        "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Encapsulamento\\Encapsulamento\\Encapsulamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

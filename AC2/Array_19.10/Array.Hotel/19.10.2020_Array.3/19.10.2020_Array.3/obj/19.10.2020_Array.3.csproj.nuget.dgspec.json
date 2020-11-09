@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\19.10.2020_Array.3\\19.10.2020_Array.3\\19.10.2020_Array.3.csproj": {}
+    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Array_19.10\\Array.Hotel\\19.10.2020_Array.3\\19.10.2020_Array.3\\19.10.2020_Array.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\19.10.2020_Array.3\\19.10.2020_Array.3\\19.10.2020_Array.3.csproj": {
+    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Array_19.10\\Array.Hotel\\19.10.2020_Array.3\\19.10.2020_Array.3\\19.10.2020_Array.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\19.10.2020_Array.3\\19.10.2020_Array.3\\19.10.2020_Array.3.csproj",
+        "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Array_19.10\\Array.Hotel\\19.10.2020_Array.3\\19.10.2020_Array.3\\19.10.2020_Array.3.csproj",
         "projectName": "19.10.2020_Array.3",
-        "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\19.10.2020_Array.3\\19.10.2020_Array.3\\19.10.2020_Array.3.csproj",
+        "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Array_19.10\\Array.Hotel\\19.10.2020_Array.3\\19.10.2020_Array.3\\19.10.2020_Array.3.csproj",
         "packagesPath": "C:\\Users\\Lampus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\19.10.2020_Array.3\\19.10.2020_Array.3\\obj\\",
+        "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Array_19.10\\Array.Hotel\\19.10.2020_Array.3\\19.10.2020_Array.3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
