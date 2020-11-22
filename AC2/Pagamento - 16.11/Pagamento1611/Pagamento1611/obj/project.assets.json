@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lampus\\source\\repos\\Pagamento1611\\Pagamento1611\\Pagamento1611.csproj",
+      "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Pagamento - 16.11\\Pagamento1611\\Pagamento1611\\Pagamento1611.csproj",
       "projectName": "Pagamento1611",
-      "projectPath": "C:\\Users\\Lampus\\source\\repos\\Pagamento1611\\Pagamento1611\\Pagamento1611.csproj",
+      "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Pagamento - 16.11\\Pagamento1611\\Pagamento1611\\Pagamento1611.csproj",
       "packagesPath": "C:\\Users\\Lampus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lampus\\source\\repos\\Pagamento1611\\Pagamento1611\\obj\\",
+      "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Pagamento - 16.11\\Pagamento1611\\Pagamento1611\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
