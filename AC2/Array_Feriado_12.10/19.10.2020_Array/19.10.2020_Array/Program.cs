@@ -12,7 +12,7 @@ namespace _19._10._2020_Array
             Console.WriteLine("Quantidade:");
 
             int n = int.Parse(Console.ReadLine());
-            double[] vetor = new double[n];
+            double[] vetor = new double[n]; // criação do array e com o tamanho customizavel a partir do input do usuario
             // um for para poder enumerar e colocar valor no array
             for(int i = 0; i < n; i++)
             {
@@ -22,7 +22,7 @@ namespace _19._10._2020_Array
 
                 somaTotal = somaTotal + vetor[i];
             }
-            
+            // atualização das informações
             Console.WriteLine("Quantidade De Numeros: " + n);
             Console.WriteLine("Valor Total: " + somaTotal);
             Console.WriteLine("Média: " + somaTotal/n);

@@ -6,9 +6,9 @@ namespace Encapsulamento
     {
         static void Main(string[] args)
         {
-            Produto produto = new Produto("Produtox", 1000, 20);
+            Produto produto = new Produto("Produtox", 1000, 20); // instanciando a variavel da classe com suas variaveis
 
-            Console.WriteLine(produto);
+            Console.WriteLine(produto); // irá escrever o tostring para receber a atualização final
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Moeda\\Moeda\\Moeda.csproj": {}
+    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Moeda\\Moeda\\Moeda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Moeda\\Moeda\\Moeda.csproj": {
+    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Moeda\\Moeda\\Moeda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Moeda\\Moeda\\Moeda.csproj",
+        "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Moeda\\Moeda\\Moeda.csproj",
         "projectName": "Moeda",
-        "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Moeda\\Moeda\\Moeda.csproj",
+        "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Moeda\\Moeda\\Moeda.csproj",
         "packagesPath": "C:\\Users\\Lampus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Moeda\\Moeda\\obj\\",
+        "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Moeda\\Moeda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

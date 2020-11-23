@@ -5,16 +5,16 @@ namespace Pagamento1611
 {
 	public class funcionario : Program
 	{
-		public funcionario() { }
-		public string nome { get; set; }
-		public int horas { get; set; }
-		public double valorHora { get; set; }
+		public funcionario() { } // construtor
+		public string nome { get; set; } // variavel para nome
+		public int horas { get; set; }// variavel para as horas trabalhadas
+		public double valorHora { get; set; } // variavel para o quanto a pessoa ganha por hora
 
-		public double salario;
+		public double salario;// variavel para o salario
 
-		public string SN;
+		public string SN; // variavel para o input do jogador selecionar se é tercerizado ou nao
 
-		public funcionario(string nome, int horas, double valorHora, double salario)
+		public funcionario(string nome, int horas, double valorHora, double salario) // construtor
 		{
 			this.nome = nome;
 			this.horas = horas;
@@ -25,7 +25,7 @@ namespace Pagamento1611
 			this.salario = salario;	
         }
 
-		public void Perguntas()
+		public void Perguntas() // método para facilitar na hora da escrita
         {
 
 			Console.WriteLine("nome: ");
@@ -36,15 +36,15 @@ namespace Pagamento1611
 			valorHora = double.Parse(Console.ReadLine());
         }
 
-		public void salariocalc()
+		public void salariocalc() // calculo do salario - metodo
         {
-			salario = horas * valorHora;
+			salario = horas * valorHora; // o salario é as horas vezes o valor por hora
 
 			if(SN == "s" || SN == "S")
             {
-				terceiros terc = new terceiros();
+				terceiros terc = new terceiros(); // instanciando
 
-				salario = salario * terc.adicional;
+				salario = salario * terc.adicional; // puxando a variavel da subclasse e aplicando
             }
 		}
 

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lampus\\source\\repos\\Salarios_26_10\\Salarios_26_10\\Salarios_26_10.csproj",
+      "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Salarios_26_10\\Salarios_26_10\\Salarios_26_10.csproj",
       "projectName": "Salarios_26_10",
-      "projectPath": "C:\\Users\\Lampus\\source\\repos\\Salarios_26_10\\Salarios_26_10\\Salarios_26_10.csproj",
+      "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Salarios_26_10\\Salarios_26_10\\Salarios_26_10.csproj",
       "packagesPath": "C:\\Users\\Lampus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lampus\\source\\repos\\Salarios_26_10\\Salarios_26_10\\obj\\",
+      "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Salarios_26_10\\Salarios_26_10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

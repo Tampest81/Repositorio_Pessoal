@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lampus\\source\\repos\\Heranca_9_11\\Heranca_9_11\\Heranca_9_11.csproj",
+      "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Heranca_9_11\\Heranca_9_11\\Heranca_9_11.csproj",
       "projectName": "Heranca_9_11",
-      "projectPath": "C:\\Users\\Lampus\\source\\repos\\Heranca_9_11\\Heranca_9_11\\Heranca_9_11.csproj",
+      "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Heranca_9_11\\Heranca_9_11\\Heranca_9_11.csproj",
       "packagesPath": "C:\\Users\\Lampus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lampus\\source\\repos\\Heranca_9_11\\Heranca_9_11\\obj\\",
+      "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Heranca_9_11\\Heranca_9_11\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Banco\\Banco\\Banco.csproj": {}
+    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Banco\\Banco\\Banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Banco\\Banco\\Banco.csproj": {
+    "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Banco\\Banco\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Banco\\Banco\\Banco.csproj",
+        "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Banco\\Banco\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Banco\\Banco\\Banco.csproj",
+        "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Banco\\Banco\\Banco.csproj",
         "packagesPath": "C:\\Users\\Lampus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\POO C# Files\\Banco\\Banco\\obj\\",
+        "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Banco\\Banco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

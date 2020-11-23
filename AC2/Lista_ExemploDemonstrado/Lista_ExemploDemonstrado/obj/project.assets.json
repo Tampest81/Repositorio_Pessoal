@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lampus\\source\\repos\\Lista_ExemploDemonstrado\\Lista_ExemploDemonstrado\\Lista_ExemploDemonstrado.csproj",
+      "projectUniqueName": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Lista_ExemploDemonstrado\\Lista_ExemploDemonstrado\\Lista_ExemploDemonstrado.csproj",
       "projectName": "Lista_ExemploDemonstrado",
-      "projectPath": "C:\\Users\\Lampus\\source\\repos\\Lista_ExemploDemonstrado\\Lista_ExemploDemonstrado\\Lista_ExemploDemonstrado.csproj",
+      "projectPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Lista_ExemploDemonstrado\\Lista_ExemploDemonstrado\\Lista_ExemploDemonstrado.csproj",
       "packagesPath": "C:\\Users\\Lampus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lampus\\source\\repos\\Lista_ExemploDemonstrado\\Lista_ExemploDemonstrado\\obj\\",
+      "outputPath": "C:\\Users\\Lampus\\Desktop\\Facens\\Segundo Semestre\\Ohata\\TortoisePOO\\Repositorio_Pessoal\\AC2\\Lista_ExemploDemonstrado\\Lista_ExemploDemonstrado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
