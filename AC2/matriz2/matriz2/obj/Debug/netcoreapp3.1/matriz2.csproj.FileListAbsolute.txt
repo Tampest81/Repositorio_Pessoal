@@ -1,0 +1,13 @@
+C:\Users\Lampus\source\repos\matriz2\matriz2\bin\Debug\netcoreapp3.1\matriz2.exe
+C:\Users\Lampus\source\repos\matriz2\matriz2\bin\Debug\netcoreapp3.1\matriz2.deps.json
+C:\Users\Lampus\source\repos\matriz2\matriz2\bin\Debug\netcoreapp3.1\matriz2.runtimeconfig.json
+C:\Users\Lampus\source\repos\matriz2\matriz2\bin\Debug\netcoreapp3.1\matriz2.runtimeconfig.dev.json
+C:\Users\Lampus\source\repos\matriz2\matriz2\bin\Debug\netcoreapp3.1\matriz2.dll
+C:\Users\Lampus\source\repos\matriz2\matriz2\bin\Debug\netcoreapp3.1\matriz2.pdb
+C:\Users\Lampus\source\repos\matriz2\matriz2\obj\Debug\netcoreapp3.1\matriz2.AssemblyInfoInputs.cache
+C:\Users\Lampus\source\repos\matriz2\matriz2\obj\Debug\netcoreapp3.1\matriz2.AssemblyInfo.cs
+C:\Users\Lampus\source\repos\matriz2\matriz2\obj\Debug\netcoreapp3.1\matriz2.csproj.CoreCompileInputs.cache
+C:\Users\Lampus\source\repos\matriz2\matriz2\obj\Debug\netcoreapp3.1\matriz2.dll
+C:\Users\Lampus\source\repos\matriz2\matriz2\obj\Debug\netcoreapp3.1\matriz2.pdb
+C:\Users\Lampus\source\repos\matriz2\matriz2\obj\Debug\netcoreapp3.1\matriz2.genruntimeconfig.cache
+C:\Users\Lampus\source\repos\matriz2\matriz2\obj\Debug\netcoreapp3.1\matriz2.csprojAssemblyReference.cache
