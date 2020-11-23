@@ -1,0 +1,13 @@
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\bin\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.exe
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\bin\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.deps.json
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\bin\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.runtimeconfig.json
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\bin\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.runtimeconfig.dev.json
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\bin\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.dll
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\bin\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.pdb
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\obj\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.AssemblyInfoInputs.cache
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\obj\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.AssemblyInfo.cs
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\obj\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.csproj.CoreCompileInputs.cache
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\obj\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.dll
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\obj\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.pdb
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\obj\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.genruntimeconfig.cache
+C:\Users\Lampus\source\repos\Lista_ExemploDemonstrado\Lista_ExemploDemonstrado\obj\Debug\netcoreapp3.1\Lista_ExemploDemonstrado.csprojAssemblyReference.cache
