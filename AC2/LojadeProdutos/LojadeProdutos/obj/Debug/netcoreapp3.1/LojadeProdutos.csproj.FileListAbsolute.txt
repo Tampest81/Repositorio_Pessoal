@@ -1,0 +1,13 @@
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\bin\Debug\netcoreapp3.1\LojadeProdutos.exe
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\bin\Debug\netcoreapp3.1\LojadeProdutos.deps.json
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\bin\Debug\netcoreapp3.1\LojadeProdutos.runtimeconfig.json
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\bin\Debug\netcoreapp3.1\LojadeProdutos.runtimeconfig.dev.json
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\bin\Debug\netcoreapp3.1\LojadeProdutos.dll
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\bin\Debug\netcoreapp3.1\LojadeProdutos.pdb
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\obj\Debug\netcoreapp3.1\LojadeProdutos.csprojAssemblyReference.cache
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\obj\Debug\netcoreapp3.1\LojadeProdutos.AssemblyInfoInputs.cache
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\obj\Debug\netcoreapp3.1\LojadeProdutos.AssemblyInfo.cs
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\obj\Debug\netcoreapp3.1\LojadeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\obj\Debug\netcoreapp3.1\LojadeProdutos.dll
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\obj\Debug\netcoreapp3.1\LojadeProdutos.pdb
+C:\Users\Lampus\source\repos\LojadeProdutos\LojadeProdutos\obj\Debug\netcoreapp3.1\LojadeProdutos.genruntimeconfig.cache
