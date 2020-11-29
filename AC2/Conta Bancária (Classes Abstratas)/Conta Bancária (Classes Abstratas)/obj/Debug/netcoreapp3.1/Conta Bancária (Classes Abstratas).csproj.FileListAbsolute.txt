@@ -1,0 +1,13 @@
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\obj\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).csprojAssemblyReference.cache
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\obj\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).AssemblyInfoInputs.cache
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\obj\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).AssemblyInfo.cs
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\obj\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).csproj.CoreCompileInputs.cache
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\bin\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).exe
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\bin\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).deps.json
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\bin\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).runtimeconfig.json
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\bin\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).runtimeconfig.dev.json
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\bin\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).dll
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\bin\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).pdb
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\obj\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).dll
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\obj\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).pdb
+C:\Users\Lampus\source\repos\Conta Bancária (Classes Abstratas)\Conta Bancária (Classes Abstratas)\obj\Debug\netcoreapp3.1\Conta Bancária (Classes Abstratas).genruntimeconfig.cache

@@ -1,0 +1,17 @@
+﻿using System;
+using Course.Entities.Enums;
+namespace Course.Entities
+{
+    Class Circulo : Forma{
+public double Raio { get; set; }
+{
+public Circulo(double raio, Color cor) : base(cor)
+    {
+        Raio = raio;
+    }
+    public override double Area()
+    {
+        return Math.PI * Raio * Raio;
+    }
+}
+}
